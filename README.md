@@ -1,4 +1,4 @@
-# WeatherForecast <img src="https://user-images.githubusercontent.com/60324903/179348023-73b6b38b-5846-4bea-afbd-ffb66daf1e88.gif" width="100" height="50">
+# Weather Forecast <img src="https://user-images.githubusercontent.com/60324903/179348023-73b6b38b-5846-4bea-afbd-ffb66daf1e88.gif" width="100" height="50">
 
 This is a small shell script to get the weather details of a particular place
 
